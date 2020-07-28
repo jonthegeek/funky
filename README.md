@@ -1,0 +1,37 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# funky
+
+<!-- badges: start -->
+
+[![R build
+status](https://github.com/jonthegeek/funky/workflows/R-CMD-check/badge.svg)](https://github.com/jonthegeek/funky/actions)
+<!-- badges: end -->
+
+The goal of funky is to manipulate functions as easily as `{stringr}`
+allows us to manipulate strings.
+
+## Installation
+
+You can install the released version of funky from
+[CRAN](https://CRAN.R-project.org) with:
+
+``` r
+# Nope.
+# install.packages("funky")
+```
+
+And the development version from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("jonthegeek/funky")
+```
+
+## Code of Conduct
+
+Please note that the funky project is released with a [Contributor Code
+of
+Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
+By contributing to this project, you agree to abide by its terms.

@@ -7,6 +7,8 @@
 
 [![R build
 status](https://github.com/jonthegeek/funky/workflows/R-CMD-check/badge.svg)](https://github.com/jonthegeek/funky/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/jonthegeek/funky/branch/master/graph/badge.svg)](https://codecov.io/gh/jonthegeek/funky?branch=master)
 <!-- badges: end -->
 
 The goal of funky is to manipulate functions as easily as `{stringr}`
